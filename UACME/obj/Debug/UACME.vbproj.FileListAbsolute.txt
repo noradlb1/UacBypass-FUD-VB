@@ -1,0 +1,10 @@
+C:\Users\MONSTERMC\Desktop\New folder (5)\UACME\bin\Debug\UACME.exe.config
+C:\Users\MONSTERMC\Desktop\New folder (5)\UACME\bin\Debug\UACME.exe
+C:\Users\MONSTERMC\Desktop\New folder (5)\UACME\bin\Debug\UACME.pdb
+C:\Users\MONSTERMC\Desktop\New folder (5)\UACME\obj\Debug\UACME.vbproj.AssemblyReference.cache
+C:\Users\MONSTERMC\Desktop\New folder (5)\UACME\obj\Debug\UACME.Form1.resources
+C:\Users\MONSTERMC\Desktop\New folder (5)\UACME\obj\Debug\Resources.resources
+C:\Users\MONSTERMC\Desktop\New folder (5)\UACME\obj\Debug\UACME.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Desktop\New folder (5)\UACME\obj\Debug\UACME.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Desktop\New folder (5)\UACME\obj\Debug\UACME.exe
+C:\Users\MONSTERMC\Desktop\New folder (5)\UACME\obj\Debug\UACME.pdb
